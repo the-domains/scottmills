@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[scottmills]]></title>
         <description><![CDATA[scottmills]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scottmills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 18:08:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2016 18:17:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scottmills/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>No Time for Despair: A Case for Hope in Dark Days</p>]]></description>
+            <link>https://thegrid.ai/scottmills/no-time-for-despair-a-case-for-hope-in-dark-days/index.html</link>
+            <guid isPermaLink="false">ea05bcaa-9d95-458e-b134-a0a1b87ae00c</guid>
+            <pubDate>Fri, 12 Aug 2016 18:16:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8b65601-2791-4799-8677-e72229c0bd26.jpg">]]></description>
-            <link>undefined3a3fa81d-6628-4278-b897-948982941637/index.html</link>
+            <link>https://thegrid.ai/scottmills/3a3fa81d-6628-4278-b897-948982941637/index.html</link>
             <guid isPermaLink="false">3a3fa81d-6628-4278-b897-948982941637</guid>
             <pubDate>Fri, 12 Aug 2016 18:08:48 GMT</pubDate>
         </item>
