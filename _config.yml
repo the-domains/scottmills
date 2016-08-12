@@ -1,0 +1,28 @@
+name: scottmills
+favicon: null
+layout_spectrum: 0.3437012988142669
+typography_spectrum: 0.8170909669715911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.004348719259724021
+  lightness: 0.35772987618111074
+  saturation: 0.8199301552958786
+  rhythmicContrast: 0.17976697511039674
+purpose: []
